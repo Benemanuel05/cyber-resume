@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Ben Emanuel Cybersecurity Resume Banner" style="width:100%; border-radius: 12px;">
+
 #  Ben Emanuel – Cybersecurity Student at Virginia Tech
 
 ##  About Me
