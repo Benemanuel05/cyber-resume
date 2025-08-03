@@ -48,7 +48,7 @@ Practiced real-world data retrieval and filtering techniques using SQL queries. 
 ##  Contact
 
 - **GitHub:** [Benemanuel05](https://github.com/Benemanuel05)
-- **LinkedIn:** [Ben Emanue](https://www.linkedin.com/in/emanuel05/)
+- **LinkedIn:** [Ben Emanuel](https://www.linkedin.com/in/emanuel05/)
 - **Email:** Benyouareben@gmail.com
 
 ---
