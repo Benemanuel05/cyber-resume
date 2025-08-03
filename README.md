@@ -8,7 +8,7 @@ I'm a Cybersecurity & Data Analytics student at Virginia Tech with hands-on expe
 
 **Virginia Tech**  
 B.S. in Cybersecurity & Data Analytics  
-Expected Graduation: 2026
+Expected Graduation: 2027
 
 - Google Cybersecurity Certificate (Coursera)
 - TryHackMe: Ongoing labs in Linux, networking, and offensive security
@@ -47,8 +47,8 @@ Practiced real-world data retrieval and filtering techniques using SQL queries. 
 ##  Contact
 
 - **GitHub:** [Benemanuel05](https://github.com/Benemanuel05)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/benemanuel05)
-- **Email:** benemanuel05@gmail.com
+- **LinkedIn:** [Ben Emanue](https://www.linkedin.com/in/emanuel05/)
+- **Email:** Benyouareben@gmail.com
 
 ---
 
