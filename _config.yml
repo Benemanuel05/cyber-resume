@@ -3,6 +3,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-title: Ben J. Emanuel
-description: Cybersecurity & Data Analytics student at Virginia Tech. 2026 NCAE Cyber Games Competitor.
+title: Ben J. Emanuel | Cybersecurity Portfolio
+description: "Cybersecurity & Data Analytics student at Virginia Tech. 2026 NCAE Cyber Games Competitor. View my Python projects, ISC2 CC certification, and latest resume."
+author: Ben J. Emanuel
 image: /banner.png
