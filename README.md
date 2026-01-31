@@ -1,55 +1,39 @@
+# Ben Emanuel – Cybersecurity Student at Virginia Tech
 
-#  Ben Emanuel – Cybersecurity Student at Virginia Tech
+## About Me
+[cite_start]I’m a Cybersecurity & Data Analytics student at Virginia Tech with hands-on experience in Python scripting, Linux fundamentals, and real-time security monitoring[cite: 53, 62]. [cite_start]I am an active member of **CyberVT** and a **2026 NCAE Cyber Games Competitor**[cite: 70, 74].
 
-##  About Me
+## Education
+**Virginia Tech** | B.S. in Cybersecurity & Data Analytics Management | [cite_start]Expected Graduation: May 2027 [cite: 52, 53, 59]
 
-I'm a Cybersecurity & Data Analytics student at Virginia Tech with hands-on experience in Python scripting, Linux fundamentals, SQL, and real-world log analysis. I'm actively building my cybersecurity portfolio with GitHub projects, interactive labs on TryHackMe, and continuous self-learning.
-
-##  Education
-
-**Virginia Tech**  
-B.S. in Cybersecurity & Data Analytics  
-Expected Graduation: 2027
-
-- Google Cybersecurity Certificate (Coursera)
-- TryHackMe: Ongoing labs in Linux, networking, and offensive security
+## Certifications
+* [cite_start]**ISC2 Certified in Cybersecurity (CC)** [cite: 89]
+* [cite_start]**Google Cybersecurity Professional Certificate** [cite: 89]
+* [cite_start]**TryHackMe:** Ongoing labs in Linux, networking, and offensive security [cite: 73]
 
 ---
 
-##  Technical Skills
+## Featured Projects
 
-- **Languages:** Python, SQL
-- **Tools:** GitHub, Wireshark, TryHackMe, VS Code, Linux CLI
-- **Concepts:** Log analysis, authentication failure detection, basic threat hunting, cybersecurity fundamentals
+### [Automated File Integrity Monitor (FIM)](https://github.com/Benemanuel05/Python-FIM)
+[cite_start]A real-time security tool built in **Python** that utilizes the **SHA-256** hashing algorithm to ensure data integrity.
+* [cite_start]**Key Features:** Automated polling loop (5-second window), dynamic security baselining, and robust exception handling[cite: 86, 87].
+* [cite_start]**Impact:** Applied SIEM concepts and secure coding practices to support incident response workflows[cite: 87].
 
----
-
-##  Projects
-
-###  [Log Analyzer (GitHub)](https://github.com/Benemanuel05/log-analyzer)
-A Python script that scans system log files for failed login attempts and authentication failures — useful for spotting brute-force or unauthorized access activity.
-
-###  [TryHackMe Writeups (GitHub)](https://github.com/Benemanuel05/ctf-writeups)
-Ongoing collection of CTF-style walkthroughs from TryHackMe, demonstrating my growing technical skills in networking, Linux, and basic penetration testing.
-
-###  [SQL Query Practice (PDF)](https://github.com/Benemanuel05/ctf-writeups/blob/main/sql-queries.pdf)
-Practiced real-world data retrieval and filtering techniques using SQL queries. Projects include multi-table joins and security-focused database logic.
+### [Log Analysis Tool (GitHub)](https://github.com/Benemanuel05/log-analyzer)
+[cite_start]Developed a Python-based tool to detect suspicious login attempts and abnormal user activity using regex-based parsing and automated reporting[cite: 76, 79, 80].
 
 ---
 
-##  Certifications & Learning
+## Technical Skills
+* [cite_start]**Security & Networking:** SOC Operations, Vulnerability Assessment, Threat Intelligence, DFIR, SIEM Concepts, OWASP Top 10 [cite: 91]
+* [cite_start]**Networking:** DNS, TCP/IP, Subnetting, Routing, Switching [cite: 92]
+* [cite_start]**Languages & Tools:** Python, SQL, GitHub, Linux CLI, Wireshark [cite: 90, 93]
 
-- **Google Cybersecurity Certificate (Coursera)**
-- **TryHackMe:** Linux Fundamentals Part 1, Offensive Security Intro
-- Ongoing self-study in blue team fundamentals and SOC analyst workflows
-
----
-
-##  Contact
-
-- **GitHub:** [Benemanuel05](https://github.com/Benemanuel05)
-- **LinkedIn:** [Ben Emanuel](https://www.linkedin.com/in/emanuel05/)
-- **Email:** Benyouareben@gmail.com
+## Contact
+* **LinkedIn:** [linkedin.com/in/emanuel05/](https://www.linkedin.com/in/emanuel05/)
+* **GitHub:** [Benemanuel05](https://github.com/Benemanuel05)
+* [cite_start]**Email:** Benyouareben@gmail.com [cite: 51]
 
 ---
 
