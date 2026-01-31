@@ -1,40 +1,39 @@
-# Ben Emanuel – Cybersecurity Student at Virginia Tech
+# Ben J. Emanuel
+**Cybersecurity & Data Analytics Student at Virginia Tech** [LinkedIn](https://www.linkedin.com/in/emanuel05/) | [GitHub](https://github.com/Benemanuel05) | Benyouareben@gmail.com
 
 ## About Me
-[cite_start]I’m a Cybersecurity & Data Analytics student at Virginia Tech with hands-on experience in Python scripting, Linux fundamentals, and real-time security monitoring[cite: 53, 62]. [cite_start]I am an active member of **CyberVT** and a **2026 NCAE Cyber Games Competitor**[cite: 70, 74].
+I’m a Cybersecurity & Data Analytics student at Virginia Tech with hands-on experience in Python scripting, Linux fundamentals, and real-time security monitoring. I am an active member of **CyberVT** and a **2026 NCAE Cyber Games Competitor**.
 
 ## Education
-**Virginia Tech** | B.S. in Cybersecurity & Data Analytics Management | [cite_start]Expected Graduation: May 2027 [cite: 52, 53, 59]
+**Virginia Tech** | B.S. in Business: Cybersecurity & Data Analytics Management | Expected May 2027
+* **Overall GPA:** 3.40
 
 ## Certifications
-* [cite_start]**ISC2 Certified in Cybersecurity (CC)** [cite: 89]
-* [cite_start]**Google Cybersecurity Professional Certificate** [cite: 89]
-* [cite_start]**TryHackMe:** Ongoing labs in Linux, networking, and offensive security [cite: 73]
+* **ISC2 Certified in Cybersecurity (CC)**
+* **Google Cybersecurity Professional Certificate**
+* **TryHackMe:** Ongoing labs in Linux, networking, and offensive security
 
 ---
 
 ## Featured Projects
 
 ### [Automated File Integrity Monitor (FIM)](https://github.com/Benemanuel05/Python-FIM)
-[cite_start]A real-time security tool built in **Python** that utilizes the **SHA-256** hashing algorithm to ensure data integrity.
-* [cite_start]**Key Features:** Automated polling loop (5-second window), dynamic security baselining, and robust exception handling[cite: 86, 87].
-* [cite_start]**Impact:** Applied SIEM concepts and secure coding practices to support incident response workflows[cite: 87].
+Developed a real-time security tool in **Python** utilizing the **SHA-256** hashing algorithm to ensure data integrity for sensitive system files.
+* **Automation:** Engineered an automated polling loop to detect and alert on unauthorized modifications within a 5-second window.
+* **Logic:** Implemented a system that dynamically updates security baselines upon detection of authorized changes.
 
-### [Log Analysis Tool (GitHub)](https://github.com/Benemanuel05/log-analyzer)
-[cite_start]Developed a Python-based tool to detect suspicious login attempts and abnormal user activity using regex-based parsing and automated reporting[cite: 76, 79, 80].
+### [Custom Python Log Analyzer](https://github.com/Benemanuel05/log-analyzer)
+Developed a Python-based log analysis tool to detect suspicious login attempts and abnormal user activity.
+* **Parsing:** Implemented regex-based parsing and automated reporting to highlight high-risk authentication patterns.
 
 ---
 
 ## Technical Skills
-* [cite_start]**Security & Networking:** SOC Operations, Vulnerability Assessment, Threat Intelligence, DFIR, SIEM Concepts, OWASP Top 10 [cite: 91]
-* [cite_start]**Networking:** DNS, TCP/IP, Subnetting, Routing, Switching [cite: 92]
-* [cite_start]**Languages & Tools:** Python, SQL, GitHub, Linux CLI, Wireshark [cite: 90, 93]
+* **Security:** SOC Operations, SIEM Concepts, Vulnerability Assessment, DFIR, Threat Intelligence
+* **Networking:** DNS, TCP/IP, Subnetting, Routing, Switching
+* **Development:** Python, SQL, Linux CLI, Wireshark, GitHub
 
-## Contact
-* **LinkedIn:** [linkedin.com/in/emanuel05/](https://www.linkedin.com/in/emanuel05/)
-* **GitHub:** [Benemanuel05](https://github.com/Benemanuel05)
-* [cite_start]**Email:** Benyouareben@gmail.com [cite: 51]
-
----
-
-_This page is part of my ongoing cybersecurity journey. Stay tuned — more projects coming soon!_
+## Work Experience
+**Pamplin IT Support Technician** | Virginia Tech | Aug 2025 – Present
+* Troubleshoot hardware, software, and network issues for faculty, staff, and students.
+* Document solutions and escalate complex problems to improve help desk efficiency.
